@@ -8,7 +8,7 @@ A collection of real-world IT support scenarios and lab walkthroughs using Help 
 
 | Lab Title | Category | Focus Areas | Write-Up |
 | :--- | :--- | :--- | :--- |
-| **01: Active Directory & User Onboarding** | Identity Management | Password resets, user creation, group permissions | [View Write-Up](./lab-01-active-directory/README.md) |
+| **01: Active Directory & User Onboarding** | Identity Management | Password resets, user creation, group permissions | [View Write-Up](./lab-01-account-setup/READme.md) |
 | **02: Email Attachment Download** | Networking | IP configuration, DNS resolution, default gateways | [View Write-Up](./lab-02-network-troubleshooting/README.md) |
 | **03: Time Fix on Computer** | IT Operations | SLA prioritization, ticket documentation, escalation | [View Write-Up](./lab-03-ticketing/README.md) |
 
